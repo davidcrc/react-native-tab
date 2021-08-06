@@ -1,6 +1,3 @@
-// React Native Tab
-// https://aboutreact.com/react-native-tab/
-
 import * as React from 'react';
 import {
   TouchableOpacity,
